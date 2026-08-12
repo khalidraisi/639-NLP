@@ -1,8 +1,5 @@
 # Disentangling Safety and Utility in LLM Activation Spaces
 
-**CS 639 — Advanced NLP | University of Wisconsin-Madison**  
-Khalid Al-Raisi, Mohammed Al-Hinai, Will Frost, Vivek Saravanan, Zakereya Chehime, David Wu
-
 ---
 
 ## Overview
